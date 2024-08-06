@@ -1,4 +1,4 @@
-# mernchat
+# mern-chat
 
 attempt at making a functional chat app using the mern stack
 built as practice for myself
