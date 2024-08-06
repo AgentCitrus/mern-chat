@@ -1,7 +1,6 @@
 # mern-chat
 
-attempt at making a functional chat app using the mern stack
-built as practice for myself
+attempt at making a functional chat app using the mern stack. built as practice for myself.
 
 uses:
 - [Next.js](https://github.com/vercel/next.js)
